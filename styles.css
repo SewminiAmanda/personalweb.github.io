@@ -1,0 +1,105 @@
+.header{
+    background-color: #F3A2A2;
+    margin: 5px;
+    margin-bottom: 0px;
+    padding: 5px;
+    width: 100%;
+    height: 575px;
+    border: none;
+    background-position: center;
+
+
+}
+.aboutme{
+    background-color: #ffffff;
+    width: 100%;
+    height: 350px;
+    margin: 5px;
+    padding: 5px;
+    border: none;
+
+}
+.skills{
+    background-color: #CBE9F4;
+    width: 100%;
+    height: 400px;
+    margin: 5px;
+    padding: 5px;
+    border: none;
+}
+
+.footer{
+    background-color: #ffffff;
+    width: 100%;
+    height: 350px;
+    margin: 5px;
+    padding: 5px;
+    border: none;
+}
+
+.self{
+    width: 225px;
+    height: 250px;
+    text-align: left;
+    border-radius: 50%;
+    padding: 120px;
+    
+}
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.salutation{
+    display: inline-block;
+    vertical-align: middle;
+}
+.hi{
+    font-size:40px;
+    padding: 0px;
+    color: #4b4c4d;
+    font-weight: bold;
+    
+}
+.name{
+    font-size:50px;
+    padding: 0px;
+    color: black;
+    font-family: Snell Roundhand, cursive;
+}
+
+.university{
+    font-size:20px;
+    padding: 0px;
+    color: black;
+}
+.degree{
+    font-size:30px;
+    padding: 0px;
+    color: black;
+
+}
+.about{
+    padding-left: 200px;
+    padding-right: 200px;
+    font-size: 15px;
+    font-family:verdana;
+}
+
+.container{
+    display: inline-block;
+    vertical-align: middle;
+    padding-left: 300px;
+}
+li{
+    font-size: 25px;
+}
+.container-1{
+    display: inline-block;
+    vertical-align: middle;
+    padding-left: 100px;
+}
+.contact{
+    font-size: 25px;
+}
+ul,li{
+    list-style: none;
+}
